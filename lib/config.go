@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"launchpad.net/goyaml"
+	"github.com/go-yaml/yaml"
 )
 
 func readPackages(path string) ([]string, error) {
