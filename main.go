@@ -11,7 +11,7 @@ import (
 	"os/exec"
 	"syscall"
 
-	"github.com/qur/withmock/lib"
+	"github.com/ryang-inova/withmock/lib"
 )
 
 var (
